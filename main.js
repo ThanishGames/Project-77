@@ -1,0 +1,14 @@
+var bottle="Thanish";
+var water="Rohan Kadiyala Muni";
+var clip=bottle.concat(water);
+console.log(clip);
+var pen=10;
+var grip=11;
+var book=pen+grip;
+console.log(book);
+var bed=grip-pen;
+console.log(bed);
+var table=pen * grip;
+console.log(table);
+var mouse=pen/grip;
+console.log(mouse);
